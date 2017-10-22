@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/sozykin/mipr.svg?branch=master)](https://travis-ci.org/sozykin/mipr)
 
 MIPr - MapReduce Image Processing framework for Hadoop
-======================================================
+=======================================================
 
 MIPr provides the ability to process images in Hadoop.
 
